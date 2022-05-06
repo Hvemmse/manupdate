@@ -6,6 +6,6 @@ run it / gør den ved at skrive
 
 <code>sudo python3 ./main.py</code>
 
-Mangler et tkinter er installeret i python med
+Mangler at tkinter er installeret i python med
 
 <code>pip3 install tkinter</code>
